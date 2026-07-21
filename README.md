@@ -164,13 +164,13 @@ Groups students into clusters based on similarities in their academic performanc
 
 ## Output
 
-✔ Pairplot Visualization
+Pairplot Visualization
 
-✔ Elbow Method Graph
+Elbow Method Graph
 
-✔ Cluster Scatter Plot
+Cluster Scatter Plot
 
-✔ Student Cluster Distribution
+Student Cluster Distribution
 
 ---
 
