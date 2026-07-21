@@ -1,12 +1,12 @@
-# 🎓 Student Graduation Clustering Using K-Means
-## 📌 Project Description
+# Student Graduation Clustering Using K-Means
+## Project Description
 
 This project applies the **K-Means Clustering** algorithm to group students based on their academic performance and study characteristics.
 Instead of predicting graduation, this project focuses on discovering hidden patterns among students using an unsupervised machine learning approach.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze student academic data.
 - Determine the optimal number of clusters using the Elbow Method.
@@ -15,7 +15,7 @@ Instead of predicting graduation, this project focuses on discovering hidden pat
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 The dataset consists of **100,000 student records** with the following features:
 
@@ -34,7 +34,7 @@ The dataset consists of **100,000 student records** with the following features:
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - Google Colab
@@ -46,7 +46,7 @@ The dataset consists of **100,000 student records** with the following features:
 
 ---
 
-## 📚 Machine Learning Workflow
+##  Machine Learning Workflow
 
 ```python
 Load Dataset
@@ -78,7 +78,7 @@ Interpretation of Results
 
 ---
 
-## 💻 Sample Code
+##  Sample Code
 
 ### Import Library
 
@@ -162,7 +162,7 @@ Groups students into clusters based on similarities in their academic performanc
 
 ---
 
-## 📈 Output
+## Output
 
 ✔ Pairplot Visualization
 
@@ -174,7 +174,7 @@ Groups students into clusters based on similarities in their academic performanc
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Student-Graduation-KMeans
@@ -187,9 +187,6 @@ Student-Graduation-KMeans
 
 ---
 
-## 👩‍💻 Author
-
 **Eprilda Nonifili Zandroto**
-
 Informatics Engineering Student
 Passionate about Machine Learning, Data Analytics, and Data Visualization
