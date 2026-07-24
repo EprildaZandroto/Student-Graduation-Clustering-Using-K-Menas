@@ -170,8 +170,6 @@ Elbow Method Graph
 
 Cluster Scatter Plot
 
-Student Cluster Distribution
-
 ---
 
 ## Repository Structure
